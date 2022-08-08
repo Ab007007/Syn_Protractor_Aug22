@@ -1,0 +1,11 @@
+{
+    "locators" : {
+        
+        "formPage"  : {
+            "fn_textBox" : "first-name",   
+            "ln_textBox" : "last-name",
+            "jt_textBox" : "job-title",
+            "submit_button" : "//a[text()='Submit']"
+        }
+    }
+}

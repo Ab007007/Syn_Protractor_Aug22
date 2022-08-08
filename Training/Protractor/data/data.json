@@ -1,0 +1,9 @@
+{
+    "url" : "http://formy-project.herokuapp.com/form",
+
+    "userdetails" : {
+        "firstname" : "Aravinda",
+        "lastname"  : "B",
+        "jobtitle"  : "Trainer"
+    }
+}
